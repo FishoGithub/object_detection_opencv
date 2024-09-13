@@ -15,6 +15,6 @@ This project was built with:
 
 ## Socials
 
-Instagram: @mihir.majgaonkar 
-Email: mihir.majgaonkar@gmail.com 
-Linkedin: www.linkedin.com/in/mihirmajgaonkar/ 
+- Instagram: @mihir.majgaonkar 
+- Email: mihir.majgaonkar@gmail.com 
+- Linkedin: www.linkedin.com/in/mihirmajgaonkar/ 
