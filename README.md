@@ -6,8 +6,15 @@ Originally built as part of a fun side-project with @liamkinsella, in which we b
 
 ## Made With
 
--Python
--OpenCV
--Pygame
--SimpleAudio
+This project was built with: 
 
+- Python
+- OpenCV
+- Pygame
+- SimpleAudio
+
+## Socials
+
+Instagram: @mihir.majgaonkar 
+Email: mihir.majgaonkar@gmail.com 
+Linkedin: www.linkedin.com/in/mihirmajgaonkar/ 
